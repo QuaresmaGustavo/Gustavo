@@ -9,8 +9,8 @@ Sistemas De Informação | Puc Minas.
 
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quaresma Gustavo&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quaresma Gustavo&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuaresmaGustavo&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuaresmaGustavo&layout=compact&theme=tokyonight"/>
 </div>
 
 
